@@ -1,0 +1,65 @@
+/* CSS NAVIGASI */
+.navigasi{
+    font-family: 'viga';
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.nav-link{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+/* Akhir CSS NAVIGASI */
+
+/* CSS JUMBOTRON */
+.jumbotron{
+    margin-top: 50px;
+    background-color: #e2edff;
+}
+.jumbotron img{
+    height: 200px;
+    margin-top: 20px;
+}
+.jumbotron h1{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 10px;
+}
+/* AKHIR CSS JUMBOTRON */
+
+/* CSS ABOUT */
+h2{
+    font-weight: bold;
+    margin: 20px;
+}
+.about p{
+    text-align: justify;
+}
+/* AKHIR CSS ABOUT */
+
+/* CSS PROJECT */
+.project .card{
+    margin: 20px;
+}
+/* AKHIR CSS PROJECT */
+
+/* CSS CONTACT */
+textarea{
+    resize: none;
+}
+.contact .btn{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+/* AKHIR CSS CONTACT */
+
+
+/* footer */
+footer{
+    height: 30px;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+/* footer */
